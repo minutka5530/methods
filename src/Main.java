@@ -28,7 +28,7 @@ public class Main {
 
         // Задача 3
         int delivery = 1;
-        System.out.println(delivery(delivery) + " Количество дней для доствки");
+        System.out.println(delivery(delivery) + " Количество дней для доствки км");
 
 
     }
